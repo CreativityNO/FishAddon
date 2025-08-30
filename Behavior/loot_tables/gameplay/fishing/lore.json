@@ -10,10 +10,10 @@
                     "functions": [
                         {
                             "function": "set_book_contents",
-                            "author": "b",
+                            "author": "unnamed",
                             "title": "bb",
                             "pages":[
-                                "balls"
+                                "{\"rawtext\":[{\"text\":\"Atlantis, 1127 of the Pantheonic Calendar\nTo the love of my life and my beautiful baby girl,\nThe city is in chaos. The beasts of the Nether have dared to raise arms against us. Their armies pour out into our land and spread fire and destruction to our neighbors. Our Lord is asking us to take up arms and oppose the barbarians as is right. Yet only a pitiful few are choosing to fight. For far too long has Atlantis been at peace. Once we were a city of warriors; now cowards fill the streets. Merchants and traders who flee at the first sign of trouble yet are all too eager to fleece you for all you're worth under the guise of friendship. They have no honor, no courage; they are unworthy of being Atlantian. \nI have chosen to fight as any good Atlantian should. I pray that I survive and can return to you both. However, I am prepared to lose my life in defence of our livelihood. \nMay our Lord grant you Peace,\n\"}]}"
                             ]
                         }
                     ]

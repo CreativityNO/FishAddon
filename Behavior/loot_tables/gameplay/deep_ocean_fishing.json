@@ -6,25 +6,25 @@
         {
           "type": "loot_table",
           "name": "loot_tables/gameplay/fishing/junk.json",
-          "weight": 2,
+          "weight": 10,
           "quality": -2
         },
         {
           "type": "loot_table",
           "name": "loot_tables/gameplay/fishing/treasure.json",
-          "weight": 2,
+          "weight": 5,
           "quality": 2
         },
         {
           "type": "loot_table",
           "name": "loot_tables/gameplay/fishing/fish.json",
-          "weight": 2,
+          "weight": 84,
           "quality": -1
         },
         {
           "type": "loot_table",
           "name": "loot_tables/gameplay/fishing/lore.json",
-          "weight": 94,
+          "weight": 1,
           "quality": 3
         }
       ]
