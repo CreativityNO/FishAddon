@@ -2,11 +2,9 @@
     "format_version": "1.20.20",
     "minecraft:item": {  
         "description": {  
-        "identifier": "minecraft:blaze_rod",  
+        "identifier": "minecraft:fish",  
         "menu_category": {  
-            "group": "itemGroup.name.blaze",  
-            "category": "equipment", 
-            "is_hidden_in_commands": true 
+            "category": "nature"
             }  
         }
     }
