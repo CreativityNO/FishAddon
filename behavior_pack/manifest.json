@@ -1,0 +1,22 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Better fishing hopefully",
+        "name": "Fishing behavior pack",
+        "uuid": "86b2d15c-be14-4d49-b4fc-37ff7efb3131",
+        "version": [1, 1, 0],
+        "min_engine_version": [1, 20, 0]
+    },
+    "modules": [
+        {
+            "description": "Fish",
+            "type": "data",
+            "uuid": "3f599c74-749a-4be2-bafd-bb6a4bdf1a5b",
+            "version": [1, 0, 0]
+        }
+    ],
+    "metadata": {
+        "authors": ["ME","someone else"],
+        "product_type": "addon"
+    }
+}
